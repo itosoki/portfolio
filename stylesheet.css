@@ -16,12 +16,17 @@
   display: flex;
   flex-wrap: wrap;
   padding: 70px 5px;
-  flex-basis: 100%;
 }
 
 .game{
 width: 50%;
 padding: 15px 0px;
+word-break: break-all;
+text-align: center;
 }
 
-
+.game-explanation{
+  width: 50%;
+  text-align: center;
+  padding: 5px 170px;
+}
