@@ -15,18 +15,23 @@
 .container{
   display: flex;
   flex-wrap: wrap;
-  padding: 70px 5px;
+  padding: 100px 5px;
 }
 
 .game{
 width: 50%;
-padding: 15px 0px;
+padding: 50px 0px;
 word-break: break-all;
 text-align: center;
 }
 
 .game-explanation{
-  width: 50%;
+  width: 80%;
   text-align: center;
-  padding: 5px 170px;
+  
+}
+
+.container p {
+  margin-left: auto;
+  margin-right: auto;
 }
