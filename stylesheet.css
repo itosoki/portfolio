@@ -19,14 +19,14 @@
 }
 
 .game{
-width: 50%;
+width: 100%;
 padding: 50px 0px;
 word-break: break-all;
 text-align: center;
 }
 
 .game-explanation{
-  width: 80%;
+  width: 50%;
   text-align: center;
   
 }
